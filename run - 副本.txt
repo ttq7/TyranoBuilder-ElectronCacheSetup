@@ -1,1 +1,11 @@
-Setup completed 
+1.运行run_setup.bat
+2.点击高级
+3.点击环境变量
+4.设置系统环境变量
+5.新建设置系统环境变量 ：
+
+- 变量名： ELECTRON_MIRROR
+
+- 变量值： https://npmmirror.com/mirrors/electron/
+
+- 重启 TyranoBuilder 后生效脚本
